@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shrishtipatel
-- 👀 I’m interested in working on project with experienced persons
-- 🌱 I’m currently learning python and I have done my c,c++ and DSA 
-- 💞️ I’m looking to collaborate on projects based on c ,c++
+- 👀 I’m interested in working on projects based on Machine Learning
+- 🌱 I’m currently learning Machine Learning and I have done my C,C++ , python and DSA 
+- 💞️ I’m looking to collaborate on projects based on C,C++ , python and ML
 - 📫 How to reach me 
 
 <!---
